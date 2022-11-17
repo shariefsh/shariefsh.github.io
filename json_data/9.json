@@ -1,0 +1,54 @@
+{
+    "name": "S7NER #9",
+    "image": "QmSg7AE6ca31VvMGC72vtvTgQm2fJWuVo9vVMEQJj6cfGk",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gluttony Fruit"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Pistol"
+        },
+        {
+            "trait_type": "Type",
+            "value": "#B8ADA0"
+        },
+        {
+            "trait_type": "Tattoo",
+            "value": "G.3;6-7"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Gluttony Demonize Spine"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Gluttony Yukata"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Wrath Demonize Spine"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "#D32 Slick Back"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Helmet"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gluttony Mus"
+        },
+        {
+            "trait_type": "Mus",
+            "value": "Gluttony Mus"
+        },
+        {
+            "trait_type": "Position",
+            "value": "Left"
+        }
+    ]
+}
