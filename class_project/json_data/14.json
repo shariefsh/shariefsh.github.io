@@ -1,0 +1,54 @@
+{
+    "name": "S7NER #14",
+    "image": "QmZvuD5BG3GA2nyzfcUTjHULNLiQZzZ1a6iQ2zghN8gBRC",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Greed Fruit"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Ice Cream"
+        },
+        {
+            "trait_type": "Type",
+            "value": "#B8ADA0"
+        },
+        {
+            "trait_type": "Tattoo",
+            "value": "L.12;15"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Bandage"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Vest"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Scorn"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "#72B Bun"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lollipop"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Surgery Scar"
+        },
+        {
+            "trait_type": "Mus",
+            "value": "Greed Mus"
+        },
+        {
+            "trait_type": "Position",
+            "value": "Left"
+        }
+    ]
+}
