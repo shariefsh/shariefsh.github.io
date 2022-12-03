@@ -1,0 +1,159 @@
+body{        
+    margin: 0px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.banner {
+    background-image: url(./nft/banner.png);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position:right center;
+    background-size:cover;
+}
+
+.fixed-footer{
+    width: 100%;
+    position: fixed;        
+    background: #333;
+    padding: 0px;
+    color: #fff;
+    text-align: center;
+}
+.fixed-footer{
+    bottom: 0;
+}
+.footer-text {
+    margin: 0px;
+}
+
+.logo {
+    height: 120px;
+    width: 120px;
+    padding-left: 15px;
+    padding-top: 5rem;
+}
+
+ul {
+    background-color: black;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.item_active) {
+    background-color: gray;
+  }
+  
+  .item_active {
+    background-color: orange;
+  }
+
+.text_right {
+    text-align: right;
+}
+.search_bar {
+    font-size: 18px;
+}
+.btn_search {
+    font-size: 18px;
+    background-color: black;
+    color: white;
+}
+
+.btn_clear {
+  font-size: 18px;
+  background-color:orange;
+  border-color: orange;
+  color: white;
+}
+
+
+
+
+
+.image_gallery {
+    width: 200px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+}
+
+.image_gallery img {
+    width: 200px;
+    height: 150px;
+}
+
+.image_content {
+    padding: 10px;
+    text-align: center;
+}
+
+.container {
+    padding: 10px;
+    height: 500px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+    width: 100%;
+}
+
+.child {
+    width: 20%;
+    float: left;
+    padding: 5px;
+    height: 400px;
+    overflow-y: auto;
+    margin: 0px;
+}  
+
+.right-child {
+    width: 75%;
+    float: right;
+    padding: 5px;
+    margin: 0px;
+} 
+
+
+.accordion {
+    text-align: left;
+    background-color: darkgray;
+    color: #fff;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+    margin: 1px;
+  } 
+    
+  .panel {
+    display: none;
+    padding: 0 18px;    
+    overflow: hidden;
+    background-color: white;
+  }
+
+  .active, .accordion:hover {
+    background-color: gray; 
+  }

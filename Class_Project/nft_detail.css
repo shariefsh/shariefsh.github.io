@@ -1,0 +1,140 @@
+body{        
+    margin: 0px;
+    overflow: hidden;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.banner {
+    background-image: url(./nft/banner.png);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position:right center;
+    background-size:cover;
+}
+
+.fixed-footer{
+    width: 100%;
+    position: relative;        
+    background: #333;
+    padding: 0px;
+    color: #fff;
+    text-align: center;
+}
+.fixed-footer{
+    bottom: 0;
+}
+.footer-text {
+    margin: 0px;
+}
+
+.logo {
+    height: 120px;
+    width: 120px;
+    padding-left: 15px;
+    padding-top: 5rem;
+}
+
+ul {
+    background-color: black;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: gray;
+  }
+  
+  .active {
+    background-color: orange;
+  }
+
+.text_right {
+    text-align: right;
+}
+.search_bar {
+    font-size: 18px;
+}
+.btn_search {
+    font-size: 18px;
+    background-color: orange;
+    color: white;
+    float: right;
+    cursor: pointer;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* .container p{
+    line-height: 200px;
+} */
+
+
+.container {
+    padding: 10px;
+    height: 500px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+
+.detail {
+    border: 3px solid #fff;
+    padding: 20px;
+    width: 100%;
+}
+
+.first {
+    width: 40%;
+    float: left;
+    padding: 5px;
+    /* border: 2px solid black; */
+    height: 400px;
+    overflow-y: auto;
+    margin: 0px;
+}  
+
+.second {
+    width: 55%;
+    /* height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden; */
+    float: right;
+    padding: 5px;
+    /* border: 2px solid black; */
+    margin: 0px;
+} 
+
+
+.nft_image {
+    height: 300px;
+    width: 350px;
+}
+
+th, td {
+    padding: 10px;
+}
+
+.nft_about {
+    text-align: center;
+    padding: 10px;
+}

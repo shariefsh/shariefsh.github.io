@@ -1,0 +1,98 @@
+body{        
+    margin: 0px;
+    overflow-y: auto;
+}
+.banner {
+    background-image: url(./nft/banner.png);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position:right center;
+    background-size:cover;
+}
+
+.fixed-footer{
+    width: 100%;
+    position: relative;        
+    background: #333;
+    padding: 0px;
+    color: #fff;
+    text-align: center;
+}
+.fixed-footer{
+    bottom: 0;
+}
+.footer-text {
+    margin: 0px;
+}
+
+.logo {
+    height: 120px;
+    width: 120px;
+    padding-left: 15px;
+    padding-top: 5rem;
+}
+
+ul {
+    background-color: black;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: gray;
+  }
+  
+  .active {
+    background-color: orange;
+  }
+
+.text_right {
+    text-align: right;
+}
+.search_bar {
+    font-size: 18px;
+}
+.btn_search {
+    font-size: 18px;
+    background-color: black;
+    color: white;
+}
+
+/* .container p{
+    line-height: 200px;
+} */
+table {
+    border-collapse: collapse;
+    width: 30%;
+}
+
+table, td, th {  
+    border: 1px solid #dddd;
+    text-align: left;
+}
+
+th, td {
+    padding: 10px;
+}
+
+.container {
+    padding: 10px;
+}
